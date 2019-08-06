@@ -16,3 +16,7 @@ Plugin in the normal view
 Plugin in the edit view
 
 ![Edit view](images/DMZ-Subnet-edit.png)
+
+# Installation
+
+As for all my extentions, just download the zip file, and copy the 'schirrms-...' directory in your extensions directory, then rerun the setup as usual.
