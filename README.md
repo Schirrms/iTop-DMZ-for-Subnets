@@ -10,7 +10,7 @@ This is a very personal extention, probably useless for everyone else. We have h
 * In internal Network (supposely a safe place :))
 
 Plugin in the normal view
-![Normal View]images/DMZ-Subnet-view.png
+(images/DMZ-Subnet-view.png)
 
 Plugin in the edit view
-![Edit View]images/DMZ-Subnet-edit.png
+(images/DMZ-Subnet-edit.png)
