@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
-  <constants>
-  </constants>
-  <classes>
+	<constants>
+	</constants>
+	<classes>
 		<class id="Subnet" _delta="must_exist">
 			<fields>
 				<field id="dmz" xsi:type="AttributeEnum" _delta="define">
@@ -41,13 +41,13 @@
 				</list>
 			</presentation>
 		</class>	
-  </classes>
-  <menus>
-  </menus>
-  <user_rights>
-    <groups>
-    </groups>
-    <profiles>
-    </profiles>
-  </user_rights>
+	</classes>
+	<menus>
+	</menus>
+	<user_rights>
+		<groups>
+		</groups>
+		<profiles>
+		</profiles>
+	</user_rights>
 </itop_design>
